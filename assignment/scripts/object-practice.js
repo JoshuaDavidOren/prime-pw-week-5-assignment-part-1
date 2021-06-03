@@ -9,7 +9,7 @@ console.log('***** Object Practice *****')
   - Also give it an array 'favThreeFoods'
 */
 const me = {
-  fistName: 'Joshua ',
+  firstName: 'Joshua ',
   lastName: 'Oren',
   hasSiblings: false,
   shoeCount: 10,
@@ -23,7 +23,7 @@ console.log('A little about me:', me);
     created above to set its value.
   - Console.log fullName
 */
-const fullName =  me.firstName + me.lastName;
+const fullName = me.firstName + me.lastName;
 console.log(fullName);
 
 
