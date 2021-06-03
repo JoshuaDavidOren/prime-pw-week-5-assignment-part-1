@@ -52,3 +52,6 @@ console.log('I know have',me.shoeCount,'pairs of shoe\'s');
   - Cool huh? It works, even though it wasn't there before
   - Console.log your object
 */
+me.favoriteColor = 'Green'
+
+console.log(me);
